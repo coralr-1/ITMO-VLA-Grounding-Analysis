@@ -1,0 +1,26 @@
+pybullet
+requests
+SpeechRecognition
+pyaudio
+
+# 1. 安装系统级语音库 (重要! 否则语音会报错)
+sudo apt-get install python3-pyaudio portaudio19-dev
+
+# 2. 安装 Python 库
+pip install -r requirements.txt
+
+pip install pybullet requests SpeechRecognition pyaudio
+
+如果你的朋友电脑显卡比较好（比如有 NVIDIA 显卡），可以让他稍微修改一下 asl_main.py 第 33 行：
+
+原代码：
+Python
+
+p.connect(p.GUI, options="--opengl2")
+
+改为（去掉 options）：
+Python
+
+p.connect(p.GUI)
+
+    解释：--opengl2 是为了兼容性（防止老电脑或虚拟机闪退）。如果他的电脑配置不错，去掉这个参数画面可能会更流畅、渲染效果更好。如果去掉后报错或闪退，就改回来。
