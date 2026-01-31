@@ -13,7 +13,7 @@
 
 An intelligent robotic hand control system that **listens to your voice**, **corrects speech recognition errors**, **translates Chinese to English**, and controls a simulated Shadow Hand to perform American Sign Language (ASL) finger-spelling gestures.
 
-**🎥 Demo Video**: [LLM_robots.mp4](../)
+**🎥 Demo Video**: [LLM_robots.mp4](../asl_robot_project)
 
 ### ✨ Key Features
 
