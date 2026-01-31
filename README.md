@@ -362,19 +362,6 @@ python asl_main.py
 
 ---
 
-### 📧 Contact
-
-**Author**: [Your Name]  
-**Email**: [Your Email]  
-**Institution**: Applying to ITMO University BE2R Lab  
-**Submission Date**: February 2025
-
-For questions or collaboration:
-- 📧 Email: [your.email@example.com]
-- 💬 GitHub Issues: [Create an issue](https://github.com/[your-username]/ITMO-VLA-Grounding-Analysis/issues)
-
----
-
 ### 📄 License
 
 This project is licensed under the MIT License - see [LICENSE](./LICENSE) file for details.
