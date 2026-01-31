@@ -13,7 +13,7 @@
 
 An intelligent robotic hand control system that **listens to your voice**, **corrects speech recognition errors**, **translates Chinese to English**, and controls a simulated Shadow Hand to perform American Sign Language (ASL) finger-spelling gestures.
 
-**🎥 Demo Video**: [LLM_robots.mp4](../asl_robot_project)
+**🎥 Demo Video**: [LLM_robots.mp4](../My_Project_for_IROS_2026)
 
 ### ✨ Key Features
 
@@ -311,7 +311,7 @@ MIT License - Feel free to use for educational/research purposes.
 
 这是一个智能机械手控制系统，能够**听懂你的声音**、**自动纠正识别错误**、**翻译成英文**，并控制仿真Shadow Hand执行美式手语(ASL)字母拼写手势。
 
-**🎥 演示视频**: [LLM_robots.mp4](../LLM_robots.mp4)
+**🎥 演示视频**: [LLM_robots.mp4](../My_Project_for_IROS_2026)
 
 ### ✨ 核心功能
 
